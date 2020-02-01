@@ -3,3 +3,24 @@ Hola Jamil
 Hola Paulina
 Hola Hesler
 Hola Sauceda
+
+
+
+
+
+
+
+
+
+
+
+
+Hola Diego estoy modificando el codigo
+
+if(Francisco == gay){
+	sout("Hola mundo")
+}
+
+Consola:
+
+Hola Mundo
